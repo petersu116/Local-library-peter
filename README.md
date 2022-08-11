@@ -1,9 +1,8 @@
 # Local-library
 
 ## Project Setup
-- Download the Qualified assessment files to your computer.
 
-- Then `cd` into the assessment folder.
+- `cd` into the project folder.
 
 - Next, install dependencies locally by running this command: `npm i`
 
